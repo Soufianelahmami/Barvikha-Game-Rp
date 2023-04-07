@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Barvikha Game RP is an exciting new application that combines the best of gaming and roleplaying. This innovative app offers players the chance to immerse themselves in a fully realized fantasy world, complete with unique characters,","photo":"https://iili.io/HO6LxLu.jpg"},
+  {"title":"helper pack 2","desc":"exciting quests, and engaging storylines. Whether you are a seasoned gamer or just looking for a new way to explore your imagination, Barvikha Game RP is the perfect choice.","photo":"https://iili.io/HO6LoXe.jpg"},
+  {"title":"tips mod 3","desc":"intriguing narratives and thrilling quests. Barvikha Game RP is the best option regardless of whether you are an experienced player or just searching for a fresh way to use your imagination.","photo":"https://iili.io/HO6LnI9.jpg"},
+  {"title":"How to use this app 4 ","desc":"Barvikha Game RP is mostly a roleplaying game. In order to complete missions, participate in battles, and explore the game's huge geography, players assume the role of characters within the game world and interact with one another.","photo":"https://iili.io/HO6LBm7.jpg"},
+  {"title":"advance pack 5","desc":"At its core, Barvikha Game RP is all about roleplaying. Players take on the role of a character within the game world and interact with other players to complete quests, engage in combat, and explore the vast landscape of the game. ","photo":"https://iili.io/HO6LT1j.jpg"},
+  {"title":"advice pack 6","desc":" The app offers a wide range of character customization options, allowing players to create a character that is truly unique and tailored to their preferences. From choosing a character's race and class to selecting their weapons and abilities, every aspect of the character creation process is designed to give players complete control over their gaming experience.","photo":"https://iili.io/HO6LcI1.jpg"},
+  {"title":"helper mod 7","desc":"One of the most impressive aspects of Barvikha Game RP is the world-building. The game's developers have crafted a detailed and immersive fantasy world, complete with its own lore, ","photo":"https://iili.io/HO6LEBa.jpg"},
+  {"title":"tips pack 8","desc":"The world-building in Barvikha Game RP is among its best features. The game's creators have created a realistic and captivating fantasy world with its own lore,","photo":"https://iili.io/HO6LW2R.jpg"}
 
    ]
  
